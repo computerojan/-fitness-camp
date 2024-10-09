@@ -1,4 +1,4 @@
-# -fitness-camp
+
 #include <stdio.h>
 int main () {
 int price , i , a , b ;
